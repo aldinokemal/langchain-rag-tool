@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-google-genai
+pdfplumber
+faiss-cpu
+fastapi
+uvicorn[standard]
+pydantic
+google-cloud-aiplatform 
